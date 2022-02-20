@@ -8,7 +8,7 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < 2 races between turtles using random values. Part B makes the turtle draw multiple different polygons. >
+ < 2 races between turtles using random values. Part B makes one of the turtles draw multiple different polygons. >
 
 ## GRACE DAYS
 Grace days used for this assignment: < 0 >
